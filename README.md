@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guru-Prasad05
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on MERN stack work
 - 📫 reach me at gurupsd05@gmail.com
 

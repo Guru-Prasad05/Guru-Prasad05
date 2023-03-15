@@ -14,15 +14,13 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
-- 🤝 I’m looking for help with **E-commerce**
-
 - 💬 Ask me about **React, Node, Javascript, Css, MongoDb, Express, Postgresql**
 
 - 📫 How to reach me **gurupsd05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/guruprasad-rana-760054185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/guruprasad-rana-760054185" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guruprasad-rana-760054185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/guruprasad-rana-760054185" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

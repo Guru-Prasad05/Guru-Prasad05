@@ -1,7 +1,7 @@
-[MasterHead](https://www.canva.com/design/DAFdPBDXD0A/e4qAx3ixT5x5W7AxR_0PZA/edit?utm_content=DAFdPBDXD0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.canva.com/design/DAFdPBDXD0A/e4qAx3ixT5x5W7AxR_0PZA/edit?utm_content=DAFdPBDXD0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))]
 <h1 align="center">Hi 👋, I'm GuruPrasad</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ0YzFkMDg3NTg4NjE5ZWM4Y2ZhMmE1ZTNjYjJmMTlhYmVlNmI0NyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img  align="right" alt="Coding" width="400"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ0YzFkMDg3NTg4NjE5ZWM4Y2ZhMmE1ZTNjYjJmMTlhYmVlNmI0NyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guru-prasad05&label=Profile%20views&color=0e75b6&style=flat" alt="guru-prasad05" /> </p>
 

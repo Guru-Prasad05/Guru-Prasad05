@@ -1,4 +1,4 @@
-![MasterHead](Black Minimal Motivation Quote LinkedIn Banner (1).gif)
+![MasterHead](https://github.com/Guru-Prasad05/Guru-Prasad05/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm GuruPrasad</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
